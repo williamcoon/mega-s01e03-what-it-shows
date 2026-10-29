@@ -4,7 +4,7 @@ title: '#4471 split · three problems, three tickets'
 owner: Bill (williamcoon)
 status: open
 reviewed: 2026-10-29
-signature: Bill (williamcoon), with Claude Code
+signature: 'v1.eyJzdWIiOiI2MDEyIiwiYXVkIjoiY2hhbGxlbmdlOndoYXQtaXQtc2hvd3MiLCJpYXQiOjE3OTMyOTQ2MjQsImV4cCI6MTc5MzM4MTAyNH0.-zApzaFv7dkwejDV3BJN_gpHWzdk3dBGfkohFH1ntec'
 ---
 
 <script>
